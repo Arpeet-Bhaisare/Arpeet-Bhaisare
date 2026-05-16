@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Arpeet Bhaisare 👋
 
-<!--
-**Arpeet-Bhaisare/Arpeet-Bhaisare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Electronics & Communication Engineering from IIIT Bhopal
 
-Here are some ideas to get you started:
+🔐 Cybersecurity & Software Testing Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Python
+- SQL
+- Java
+- Networking
+- Cybersecurity
+- Packet Analysis
+- API Testing
+- Functional Testing
+
+## Areas of Interest
+- Cyber Threat Intelligence (CTI)
+- Threat Research
+- SOC Operations
+- Security Testing
+- OSINT
+
+## Featured Projects
+- Cybersecurity Packet Flow Visualization
+- Diabetes Prediction using Machine Learning
+- ESP32 IoT Home Automation
+
+## Certifications
+- Cisco Cyber Ops Associate
+- CCSKv4.1 Foundation Training
+- Cyber Security Essentials
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/arpeet-bhaisare-a02a061ba
+- GitHub: https://github.com/Arpeet-Bhaisare
