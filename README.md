@@ -1,8 +1,10 @@
 # Hi, I'm Arpeet Bhaisare 👋
 
-🎓 B.Tech in Electronics & Communication Engineering from IIIT Bhopal  
-🔐 Cybersecurity Enthusiast | Software Testing | Networking | Data Science  
-💻 Interested in Cyber Threat Intelligence (CTI), SOC Operations, Security Testing & OSINT  
+🎓 B.Tech in Electronics & Communication Engineering from IIIT Bhopal
+
+🔐 Cybersecurity Enthusiast | Data Science | Software Testing | Networking
+
+💻 Interested in Cyber Threat Intelligence (CTI), SOC Operations, Security Testing, Machine Learning & OSINT
 
 ---
 
@@ -21,51 +23,117 @@
 - Threat Research
 - Routing & Switching
 - Network Monitoring
+- Cisco Packet Tracer
+- Wireshark
+
+### Data Science & Machine Learning
+- Pandas
+- NumPy
+- Scikit-Learn
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+- Logistic Regression
 
 ### Testing & Tools
-- API Testing
 - Functional Testing
-- Cisco Packet Tracer
-- MATLAB
-- Wireshark
-- Linux
+- API Testing
 - Git & GitHub
+- Linux
+- MATLAB
 
 ---
 
 ## 📌 Areas of Interest
+
 - Cyber Threat Intelligence (CTI)
-- Threat Research
 - SOC Operations
 - Security Testing
 - Network Security
+- Data Science
+- Machine Learning
 - OSINT & Digital Investigation
 
 ---
 
-## 🔥 Featured Projects
+# 🔥 Featured Projects
 
-### 🔐 Cybersecurity Packet Flow Visualization
+## 🔐 Cybersecurity Packet Flow Visualization
+
 Cybersecurity packet flow monitoring and visualization project using Cisco Packet Tracer.
 
-### 🩺 Diabetes Prediction using Machine Learning
-Machine learning project for diabetes prediction using healthcare datasets.
+### Highlights
+- Network topology design
+- Packet analysis
+- IPv4 configuration
+- ICMP packet tracing
+- Router & switch configuration
+- OSI model analysis
 
-### 🏠 ESP32 IoT Home Automation
+🔗 Repository:
+https://github.com/Arpeet-Bhaisare/cybersecurity-packet-flow-visualization
+
+---
+
+## 🩺 Diabetes Prediction using Machine Learning
+
+Machine Learning project developed during Data Science Internship at Exposys Data Labs Pvt. Ltd.
+
+### Highlights
+- Data preprocessing
+- Exploratory Data Analysis
+- Correlation analysis
+- Logistic Regression
+- Data visualization
+- Healthcare analytics
+
+🔗 Repository:
+https://github.com/Arpeet-Bhaisare/Diabetes-Prediction-Model
+
+---
+
+## 🏠 ESP32 IoT Home Automation
+
 IoT-based home automation project integrated with voice assistants.
+
+### Highlights
+- ESP32 Development
+- Home Automation
+- IoT Communication
+- Sensor Integration
+- Smart Control Systems
 
 ---
 
 ## 🏆 Certifications
+
 - Cisco Cyber Ops Associate
 - Cybersecurity Essentials – Cisco
 - Introduction to Cybersecurity – Cisco
-- CCSKv4.1 Foundation Training – Cloud Security Alliance
+- CCSK v4.1 Foundation Training – Cloud Security Alliance
+- Introduction to Data Science – Simplilearn
+- Basics of Machine Learning Algorithms – UniAthena & Cambridge International Qualifications
+
+---
+
+## 📈 Current Focus
+
+- Cybersecurity
+- SOC Operations
+- Threat Intelligence
+- Security Testing
+- Machine Learning Projects
+- Open Source Contributions
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn: [Arpeet Bhaisare](https://www.linkedin.com/in/arpeet-bhaisare-a02a061ba)
+### LinkedIn
+https://www.linkedin.com/in/arpeet-bhaisare-a02a061ba
 
-GitHub: [Arpeet-Bhaisare](https://github.com/Arpeet-Bhaisare)
+### GitHub
+https://github.com/Arpeet-Bhaisare
+
+---
+
+⭐ Open to opportunities in Cybersecurity, SOC Operations, Security Testing, Data Science and Software Engineering.
