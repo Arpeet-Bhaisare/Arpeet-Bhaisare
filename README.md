@@ -3,6 +3,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpeet-Bhaisare&layout=compact)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Arpeet-Bhaisare)
+
 🎓 B.Tech in Electronics & Communication Engineering from IIIT Bhopal
 
 🔐 Cybersecurity Enthusiast | Data Science | Software Testing | Networking
