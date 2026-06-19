@@ -1,4 +1,7 @@
 # Hi, I'm Arpeet Bhaisare 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arpeet-Bhaisare&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpeet-Bhaisare&layout=compact)
 
 🎓 B.Tech in Electronics & Communication Engineering from IIIT Bhopal
 
