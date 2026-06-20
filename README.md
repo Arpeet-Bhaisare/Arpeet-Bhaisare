@@ -136,11 +136,11 @@ IoT-based home automation project integrated with voice assistants.
 
 ## 📫 Connect With Me
 
-### LinkedIn
-https://www.linkedin.com/in/arpeet-bhaisare-a02a061ba
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arpeet_Bhaisare-blue?logo=linkedin)](https://www.linkedin.com/in/arpeet-bhaisare-a02a061ba)
 
-### GitHub
-https://github.com/Arpeet-Bhaisare
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-success)](https://arpeet-bhaisare.github.io)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Arpeet--Bhaisare-black?logo=github)](https://github.com/Arpeet-Bhaisare)
 
 ---
 
