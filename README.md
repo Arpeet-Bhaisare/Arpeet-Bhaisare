@@ -1,6 +1,6 @@
-# Hi, I'm Arpeet Bhaisare 👋
-
 ![](https://komarev.com/ghpvc/?username=Arpeet-Bhaisare&color=blue)
+
+# Hi, I'm Arpeet Bhaisare 👋
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arpeet-Bhaisare&show_icons=true)
 
